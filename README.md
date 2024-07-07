@@ -17,12 +17,12 @@
 ## My repositories
 
 
-<a herf = "https://github.com/errantProgrammer/Algorithms">
+<a href = "https://github.com/errantProgrammer/Algorithms">
     <img src ="https://github-readme-stats.vercel.app/api/pin/?username=errantProgrammer&repo=Algorithms&theme=tokyonight">
 </a>
 
 
 ## My performance in leetcode
-<a herf="https://leetcode.com/u/errantprogrammer/">
+<a href="https://leetcode.com/u/errantprogrammer/">
 <img src ="https://leetcard.jacoblin.cool/ErrantProgrammer?theme=dark&font=Noto%20Sans&ext=heatmap">
 </a>
