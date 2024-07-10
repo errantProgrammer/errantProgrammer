@@ -22,6 +22,6 @@
 
 <p>
     <img width="500px" src="metrics.plugin.personal.anilist.svg" />
-    <img width="320px" style="vertical-align:bottom;align:right;" src="https://raw.githubusercontent.com/meokisama/meokisama/master/fumino_furuhashi.jpg" />
+    <img width="320px" style="vertical-align:bottom;align:right;" src="https://raw.githubusercontent.com/errantProgrammer/errantProgrammer/main/fumino_furuhashi.jpg" />
 </p>
 
