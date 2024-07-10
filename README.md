@@ -17,6 +17,11 @@
     <img src ="https://leetcard.jacoblin.cool/ErrantProgrammer?theme=dark&font=Noto%20Sans&ext=heatmap">
 </a>
 
+# Test
+
+<img src="github-metrics.svg">
+
+
 <!--
 <p>
     <img width="500px" src="metrics.plugin.personal.anilist.svg" />
