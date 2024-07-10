@@ -1,6 +1,8 @@
 # See https://github.com/lowlighter/metrics for documentation
 # This worflow is scheduled for every hour, and also run after each commit (GitHub action excluded) on master/main branch
-
+# - name: Metrics embed
+# uses: lowlighter/metrics@v3.34
+            
 name: Metrics
 on:
   schedule:
@@ -16,7 +18,7 @@ jobs:
           
       - name: 🦑 Personal metrics (anilist)
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@v3.34
         with:
           filename: metrics.plugin.personal.anilist.svg
           token: NOT_NEEDED
