@@ -19,7 +19,7 @@
 
 # Test
 
-<img src="github-metrics.svg">
+<img src="metrics.plugin.personal.anilist.svg">
 
 
 <!--
