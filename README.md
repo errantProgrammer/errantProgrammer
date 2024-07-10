@@ -17,7 +17,9 @@
     <img src ="https://leetcard.jacoblin.cool/ErrantProgrammer?theme=dark&font=Noto%20Sans&ext=heatmap">
 </a>
 
+<!--
 <p>
     <img width="500px" src="metrics.plugin.personal.anilist.svg" />
     <img width="320px" style="vertical-align:bottom;align:right;" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/mashiiro-png.png" />
 </p>
+-->
