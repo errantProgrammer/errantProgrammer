@@ -17,14 +17,11 @@
     <img src ="https://leetcard.jacoblin.cool/ErrantProgrammer?theme=dark&font=Noto%20Sans&ext=heatmap">
 </a>
 
-# Test
-
-<img src="metrics.plugin.personal.anilist.svg">
+# My 
 
 
-<!--
 <p>
     <img width="500px" src="metrics.plugin.personal.anilist.svg" />
-    <img width="320px" style="vertical-align:bottom;align:right;" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/mashiiro-png.png" />
+    <img width="320px" style="vertical-align:bottom;align:right;" src="https://raw.githubusercontent.com/meokisama/meokisama/master/fumino_furuhashi.jpg" />
 </p>
--->
+
