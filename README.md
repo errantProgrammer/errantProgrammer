@@ -17,8 +17,7 @@
     <img src ="https://leetcard.jacoblin.cool/ErrantProgrammer?theme=dark&font=Noto%20Sans&ext=heatmap">
 </a>
 
-# My 
-
+# My favorite anime's
 
 <p>
     <img width="500px" src="metrics.plugin.personal.anilist.svg" />
