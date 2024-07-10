@@ -17,3 +17,16 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+      - name: 🦑 Personal metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_lines: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_stars: yes
+          plugin_stars_limit: 2
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
