@@ -18,15 +18,30 @@ jobs:
       #   with:
       #     token: ${{ secrets.METRICS_TOKEN }}
       # - name: 🦑 Personal metrics
-        - uses: lowlighter/metrics@latest
+        # - uses: lowlighter/metrics@latest
+        #   with:
+        #     filename: metrics.plugin.calendar.svg
+        #     token: ${{ secrets.METRICS_TOKEN }}
+        #     committer_token: ${{ secrets.GITHUB_TOKEN }}
+        #     base: ""
+        #     plugin_lines: yes
+        #     plugin_isocalendar: yes
+        #     plugin_isocalendar_duration: full-year
+        #     plugin_stars: yes
+        #     plugin_stars_limit: 2
+        #     plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+             # - name: 🦑 Personal metrics (anilist)
+        # if: ${{ success() || failure() }}
+        - uses: lowlighter/metrics@master
           with:
-            filename: metrics.plugin.calendar.svg
-            token: ${{ secrets.METRICS_TOKEN }}
+            filename: metrics.plugin.personal.anilist.svg
+            token: NOT_NEEDED
             committer_token: ${{ secrets.GITHUB_TOKEN }}
-            base: ""
-            plugin_lines: yes
-            plugin_isocalendar: yes
-            plugin_isocalendar_duration: full-year
-            plugin_stars: yes
-            plugin_stars_limit: 2
+            plugin_anilist: yes
+            plugin_anilist_medias: anime, manga
+            plugin_anilist_sections: favorites, characters
+            plugin_anilist_limit: 2
+            plugin_anilist_shuffle: yes
+            plugin_anilist_limit_characters: 22
             plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+            
