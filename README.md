@@ -6,56 +6,16 @@ I'm Jesus Huayhua a computer engineering student at [:school: PUCP college](http
 
 ## Programming I languages
 
+<picture>
+<!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true"> -->
+    <img align="right" width="auto" src="img/lain-serial-experiments-lain.gif">
+</picture>
 
-
-<p>
-    <p align="left" width = "500px">
-        <p>Language Programming
-            <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-            <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-            <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        </p>
-        <p width = "500px">I learn: <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"></p>
-        <p width = "500px">Operating system: <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white"></p>
-        <p width = "500px">IDE's:
-            <picture>
-                <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white">
-                <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white">
-                <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2B%2B&logoColor=black">
-            </picture>
-        </p>
-    </p>
-    <p align="right" width="320px" style="border-color: red; border-style: solid;">
-        <img style="vertical-align:bottom; align:right;"src="img/lain-serial-experiments-lain.gif">
-    </p>
-</p>
-
-<div width="820" class="verde" style="border-color: green; border-style:solid;">
-    <!--Info-->
-    <div align="left" class="azul" width="500px" style="border-color: blue; border-style: solid;">
-    <p>Language Programming
-            <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-            <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-            <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        </p>
-        <p width = "500px">I learn: <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"></p>
-        <p width = "500px">Operating system: <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white"></p>
-        <p width = "500px">IDE's:
-            <picture>
-                <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white">
-                <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white">
-                <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2B%2B&logoColor=black">
-            </picture>
-        </p>
-    </div>
-    <!--GIF-->
-    <div align="right" width="320px" class="rojo" style="border-color: red; border-style: solid;">
-        <img style="vertical-align:bottom; align:right;"src="img/lain-serial-experiments-lain.gif">
-    </div>
-</div>
-
+-   :desktop_computer: I know the following programming languages <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+-   :atom_symbol: Operating system <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white">
+-   :hammer_and_wrench: IDE's<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"> 
+-   :notebook_with_decorative_cover: Note taking app <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat-square&logo=obsidian&logoColor=white">
+-   :book: I learn web development: <img src="https://img.shields.io/badge/HTML-FFA500?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1E90FF?&style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
 
 ## My Github's Stats
 
@@ -75,8 +35,12 @@ I'm Jesus Huayhua a computer engineering student at [:school: PUCP college](http
     </picture>
     </a>
 </p>
+
 # My favorite anime's
 
+<p align="center">
+    <img width="500" src="https://img.anili.st/user/6588884">
+</p>
 <p>
     <img width="500px" src="img/metrics.plugin.personal.anilist.svg" />
     <img width="320px" style="vertical-align:bottom; align:right;" src="img/Iwakura_lain.webp">
