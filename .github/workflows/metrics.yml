@@ -34,7 +34,7 @@ jobs:
         # if: ${{ success() || failure() }}
         - uses: lowlighter/metrics@master
           with:
-            filename: metrics.plugin.personal.anilist.svg
+            filename: img/metrics.plugin.personal.anilist.svg
             token: NOT_NEEDED
             committer_token: ${{ secrets.GITHUB_TOKEN }}
             plugin_anilist: yes
