@@ -27,16 +27,6 @@ I'm Jesus Huayhua a computer engineering student at [:school: PUCP college](http
     </tr>
 </table>
 
-## My performance in leetcode
-
-<p align="center">
-    <a href="https://leetcode.com/u/errantprogrammer/">
-    <picture>
-        <img src ="https://leetcard.jacoblin.cool/ErrantProgrammer?theme=dark&font=Noto%20Sans&ext=heatmap">
-    </picture>
-    </a>
-</p>
-
 # My favorite anime's
 
 <p align="center">
@@ -45,4 +35,5 @@ I'm Jesus Huayhua a computer engineering student at [:school: PUCP college](http
 <p>
     <img width="500px" src="img/metrics.plugin.personal.anilist.svg" />
     <img width="320px" style="vertical-align:bottom; align:right;" src="img/Iwakura_lain.webp">
+
 </p>
