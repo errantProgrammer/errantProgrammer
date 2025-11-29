@@ -10,12 +10,13 @@ I'm Jesus Huayhua a computer engineering student at [:school: PUCP college](http
 </picture>
 
 - :desktop_computer: I know the following programming languages <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-- :atom_symbol: Operating system <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white">
-- :hammer_and_wrench: IDE's<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white">
+- :atom_symbol: Operating system <img src="https://img.shields.io/badge/Omarchy-Compatible-7aa2f7?style=flat-square&labelColor=1a1b26&logo=archlinux&logoColor=c0caf5"/>
+- :hammer_and_wrench: IDE's <a href="https://github.com/errantProgrammer/nvim" target="_blank"> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white"> </a> <img src="https://img.shields.io/badge/zedindustries-084CCF.svg?style=flat-square&logo=zedindustries&logoColor=white">
 - :notebook_with_decorative_cover: Note taking app <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat-square&logo=obsidian&logoColor=white">
-- :book: I learn rust: <img src="https://img.shields.io/badge/RUST-black?style=flat-square&logo=rust&logoColor=white">
+- :book: I learn rust: <img src="https://img.shields.io/badge/RUST-black?style=flat-square&logo=rust&logoColor=white"> <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white">
+- :books: Documment languages: <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/typst-239DAD.svg?style=flat-square&logo=typst&logoColor=white"> <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white">
 - :email:  <a href="https://www.linkedin.com/in/jesus-mauricio-huayhua-flores-a40652285/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a> <a href="mailto:errantprogrammer@gmail.com" target="_blank"> <img src ="https://img.shields.io/badge/Personal%20Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"> </a> <a href="mailto:jmhuayhua@pucp.edu.pe" target="_blank"> <img src ="https://img.shields.io/badge/College%20Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"> </a>
-- <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="22" height="22" /> </picture>  College github <a href="https://www.github.com/JesusHuayhua" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/College_Github-%23121011.svg?style=flat-square&logo=github&logoColor=white"> </a>
+- <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="22" height="22" /> </picture> <a href="https://www.github.com/JesusHuayhua" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/College_Github-%23121011.svg?style=flat-square&logo=github&logoColor=white"> </a>
 
 ## My Github's Stats
 
@@ -34,5 +35,4 @@ I'm Jesus Huayhua a computer engineering student at [:school: PUCP college](http
 <p>
     <img width="500px" src="img/metrics.plugin.personal.anilist.svg" />
     <img width="320px" style="vertical-align:bottom; align:right;" src="img/Iwakura_lain.webp">
-
 </p>
