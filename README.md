@@ -18,6 +18,7 @@ I'm Jesus Huayhua a computer engineering student at [:school: PUCP college](http
 - :email:  <a href="https://www.linkedin.com/in/jesus-mauricio-huayhua-flores-a40652285/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a> <a href="mailto:errantprogrammer@gmail.com" target="_blank"> <img src ="https://img.shields.io/badge/Personal%20Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"> </a> <a href="mailto:jmhuayhua@pucp.edu.pe" target="_blank"> <img src ="https://img.shields.io/badge/College%20Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"> </a>
 - <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="22" height="22" /> </picture> <a href="https://www.github.com/JesusHuayhua" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/College_Github-%23121011.svg?style=flat-square&logo=github&logoColor=white"> </a>
 
+<!--
 ## My Github's Stats
 
 <table style=" margin-left: auto; margin-right: auto; border:none;" width="100%" height="100%" >
@@ -26,6 +27,7 @@ I'm Jesus Huayhua a computer engineering student at [:school: PUCP college](http
         <td style="border: none;"><img style="border: none;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=errantProgrammer&layout=compact&count_private=true&title_color=6366f1&text_color=14b8a6&icon_color=a855f7&bg_color=181824"></td>
     </tr>
 </table>
+-->
 
 # My favorite anime's
 
